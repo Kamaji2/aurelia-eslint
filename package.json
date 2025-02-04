@@ -1,0 +1,17 @@
+{
+  "name": "aurelia-eslint",
+  "version": "1.0.0",
+  "description": "Default ESLint rules configuration to share between Kamaji2 Aurelia applications",
+  "main": "eslint.rules.mjs",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kamaji2/aurelia-eslint.git"
+  },
+  "keywords": [],
+  "author": "Mamoka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kamaji2/aurelia-eslint/issues"
+  },
+  "homepage": "https://github.com/Kamaji2/aurelia-eslint#readme"
+}
