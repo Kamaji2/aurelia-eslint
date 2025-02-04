@@ -1,0 +1,29 @@
+{
+  "name": "aurelia-eslint",
+  "version": "1.0.0",
+  "description": "Default ESLint config to share between Kamaji2 Aurelia applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint",
+    "lint:fix": "eslint --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kamaji2/aurelia-eslint.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kamaji2/aurelia-eslint/issues"
+  },
+  "homepage": "https://github.com/Kamaji2/aurelia-eslint#readme",
+  "devDependencies": {
+    "@eslint/js": "^9.19.0",
+    "@stylistic/eslint-plugin": "^3.0.1",
+    "eslint": "^9.19.0",
+    "globals": "^15.14.0",
+    "typescript-eslint": "^8.23.0"
+  }
+}
